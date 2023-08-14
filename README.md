@@ -265,6 +265,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 * [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
 * [Factor](https://github.com/fiction-com/factor) - The Javascript CMS
+* [Graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
